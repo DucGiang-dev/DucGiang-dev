@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/DucGiang-dev">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DucGiang-dev&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="DucGiang-dev's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DucGiang-dev&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="DucGiang-dev's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=DucGiang-dev&theme=dark&hide_border=true&cache_seconds=86400" alt="DucGiang-dev's GitHub Streak" width="49%" />
 </p>
