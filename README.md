@@ -1,15 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Giang&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%20%20%20&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%A4%96%20No%20AI%2C%20no%20magic." alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=DucGiang-dev">
-    <img src="https://komarev.com/ghpvc/?username=DucGiang-dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="DucGiang-dev's profile views" />
-  </a>
-</p>
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE0a3I1MHRxc3ZyN2UwMWExNDU0ZjBvNWRvMHd6aWxlbmdhNHNneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FaFu1s2hO1xYHdpk6N/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
