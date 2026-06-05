@@ -14,16 +14,14 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/DucGiang-dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DucGiang-dev&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="DucGiang-dev's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DucGiang-dev&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="DucGiang-dev's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=DucGiang-dev&theme=dark&hide_border=true&cache_seconds=86400" alt="DucGiang-dev's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=DucGiang-dev&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nguyễn Đức Giang's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DucGiang-dev&theme=dark&radius=10" alt="DucGiang-dev's Activity Graph" />
-</p>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
